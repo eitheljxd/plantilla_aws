@@ -1,0 +1,6 @@
+{
+    "nombre" : "API Rest Express - APIWar",
+    "configDB":{
+        "HOST": "mongodb+srv://eithelj:canchia123@cluster0-dqd4k.azure.mongodb.net/test?authSource=admin&replicaSet=Cluster0-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true"
+    }
+}
